@@ -1,4 +1,4 @@
-15
+31
 http://158.69.153.201/XM_Multi-launcher/Patchs/XMUpdater.exe
 http://158.69.153.201/XM_Multi-launcher/Patchs/XMUpdater.dll
 http://158.69.153.201/XM_Multi-launcher/Patchs/XMUpdater.runtimeconfig.json
